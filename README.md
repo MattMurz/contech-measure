@@ -8,3 +8,4 @@ Upload zdjęcia → wykrycie kartki A4 → warp → skala mm/pixel.
 - git push origin main
 
 GitHub Pages opublikuje katalog public/.
+# contech-measure
